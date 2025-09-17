@@ -1,28 +1,3 @@
-// import React from "react";
-
-// export default function Navbar() {
-//   return (
-//     <header className="flex items-center justify-between mb-5">
-//       <div className="flex items-center gap-4">
-//         <div className="w-14 h-14 rounded-lg bg-gradient-to-br from-cyan-400 to-violet-600 flex items-center justify-center text-slate-900 font-bold">DA</div>
-//         <div>
-//           <div className="font-semibold">Dakshraj Amnerkar</div>
-//           <div className="small">Data Analyst • React Developer</div>
-//         </div>
-//       </div>
-
-//       <nav className="hidden md:flex gap-4 text-sm text-slate-400">
-//         <a href="#about" className="hover:text-white">About</a>
-//         <a href="#skills" className="hover:text-white">Skills</a>
-//         <a href="#experience" className="hover:text-white">Experience</a>
-//         <a href="#projects" className="hover:text-white">Projects</a>
-//         <a href="#contact" className="hover:text-white">Contact</a>
-//       </nav>
-//     </header>
-//   );
-// }
-
-
 import React from "react";
 
 export default function Navbar() {

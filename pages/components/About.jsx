@@ -1,24 +1,3 @@
-// import React from "react";
-
-// export default function About() {
-//   return (
-//     <section className="section" id="about">
-//       <div className="card-title">About</div>
-//       <p className="small text-justify md:text-left">
-//         Hi, I’m Dakshraj Amnerkar 👋 I’m a Frontend Developer and Data Analyst
-//         passionate about creating user-friendly applications and deriving
-//         meaningful insights from data. I have hands-on experience with ReactJS,
-//         Redux, Node.js, Python, SQL, Power BI, and Excel, gained through
-//         internships and real-world problem-solving. I thrive in collaborative
-//         environments, enjoy tackling challenges, and continuously work on
-//         improving my technical and analytical skills. 
-//         Outside of work, I love cricket, traveling, and fitness.
-//       </p>
-//     </section>
-//   );
-// }
-
-
 import React from "react";
 
 export default function About() {

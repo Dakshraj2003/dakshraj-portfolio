@@ -1,32 +1,3 @@
-// import React from "react";
-
-// const skills = [
-//   "Python (Pandas, NumPy, Matplotlib, Seaborn)",
-//   "MySQL",
-//   "Power BI",
-//   "MS Excel (Advanced)",
-//   "Data Modeling",
-//   "EDA & Data Cleaning",
-//   "SQL Query Optimization",
-//   "Predictive Modeling",
-//   "React JS",
-//   "HTML",
-//   "CSS, Tailwind CSS",
-//   "Bootstrap",
-// ];
-
-// export default function Skills(){
-//   return (
-//     <section className="section" id="skills">
-//       <div className="card-title">Technical Skills</div>
-//       <div className="flex flex-wrap gap-2 mt-2">
-//         {skills.map(s => <div key={s} className="bg-[rgba(255,255,255,0.03)] px-3 py-1 rounded-md font-medium">{s}</div>)}
-//       </div>
-//     </section>
-//   );
-// }
-
-
 import React from "react";
 
 const skills = [

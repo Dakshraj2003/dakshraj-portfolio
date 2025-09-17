@@ -1,24 +1,3 @@
-// import React from "react";
-
-// const certs = [
-//   {title: "Career Young Professional Certificate - TCS", date: "Oct 2021"},
-//   {title: "Data Analytics for job simulation – Accenture", date: "Dec 2023"},
-//   {title: "Career Young Professional Certificate – TCS", date: "Oct 2021"},
-//   {title: "ReactJS Frontend Development – Udemy", date: "Jan 2023"},
-//   {title: "ReactJS Essential Training – TCS", date: "Dec 2023"},
-// ];
-
-// export default function Certifications(){
-//   return (
-//     <section className="section" id="certifications">
-//       <div className="card-title">Certifications</div>
-//       <ul className="mt-2 list-disc ml-5 space-y-1">
-//         {certs.map(c => <li key={c.title} className="small">{c.title} <span className="small text-slate-400">• {c.date}</span></li>)}
-//       </ul>
-//     </section>
-//   );
-// }
-
 
 import React from "react";
 

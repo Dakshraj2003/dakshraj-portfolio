@@ -1,12 +1,3 @@
-// import React from "react";
-
-// export default function Footer(){
-//   return (
-//     <footer className="mt-6 text-center small text-slate-400">
-//       Thank You ❤️ • For visiting my portfolio.
-//     </footer>
-//   );
-// }
 
 
 import React from "react";

@@ -1,30 +1,3 @@
-// import React from "react";
-
-// export default function Education(){
-//   return (
-//     <section className="section" id="education">
-//       <div className="card-title">Education</div>
-//       <div className="mt-2 space-y-3">
-//         <div>
-//           <div className="font-semibold">BTech, Information Technology</div>
-//           <div className="small">K.D.K. College of Engineering, Nagpur — CGPA: 8.40 (2024)</div>
-//         </div>
-
-//         <div>
-//           <div className="font-semibold">Class XII, Science</div>
-//           <div className="small">Baba Nanak Sindhi Hindi Jr College — 63.85% (2020)</div>
-//         </div>
-
-//         <div>
-//           <div className="font-semibold">Class X</div>
-//           <div className="small">Adarsh Vidya Mandir High School — 87.20% (2018)</div>
-//         </div>
-//       </div>
-//     </section>
-//   );
-// }
-
-
 import React from "react";
 
 export default function Education() {
