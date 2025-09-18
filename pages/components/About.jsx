@@ -20,15 +20,13 @@ export default function About() {
             Frontend Developer
           </span>{" "}
           and{" "}
-          <span className="text-green-400 font-semibold">Data Analyst</span>{" "}
-          passionate about creating user-friendly applications and deriving
-          meaningful insights from data.
+          passionate about creating user-friendly applications.
         </p>
 
         <p className="text-slate-300 leading-relaxed text-justify mt-4">
           I have hands-on experience with{" "}
           <span className="text-green-300">
-            ReactJS, Redux, Node.js, Python, SQL, Power BI, and Excel
+            ReactJS, Redux, Node.js, Python, Next JS
           </span>{" "}
           gained through internships and real-world problem-solving. I thrive in
           collaborative environments, enjoy tackling challenges, and

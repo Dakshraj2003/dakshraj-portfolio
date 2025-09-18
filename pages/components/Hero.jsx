@@ -25,13 +25,12 @@ export default function Hero() {
         </h1>
         <p className="mt-4 text-slate-300 leading-relaxed max-w-2xl mx-auto md:mx-0 text-justify">
           I’m a <span className="font-semibold">Frontend Developer</span> and{" "}
-          <span className="font-semibold">Data Analyst</span> passionate about
-          building scalable applications and turning raw data into actionable
-          insights. Experienced with{" "}
+          passionate about
+          scalable, responsive, and user-friendly web applications. Experienced with{" "}
           <span className="text-green-400">
-            ReactJS, Redux, Node.js, SQL, Python, and Power BI
+            ReactJS, Redux, Node.js, SQL, Python, NextJS.
           </span>
-          , I bring both technical expertise and problem-solving skills from my
+          , I enjoy crafting clean, efficient code and continuously exploring new technologies to enhance user experience and application performance. I bring both technical expertise and problem-solving skills from my
           internships and projects.
         </p>
 

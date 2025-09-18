@@ -2,19 +2,19 @@ import React from "react";
 
 const projects = [
   {
-    title: "Sales Analysis: Combos & Customer Segments",
-    timeframe: "2 months",
-    desc: "Processed and cleaned 100K+ records from multiple datasets using Python and Excel. Designed an interactive Power BI dashboard to visualize key metrics, top-selling items, and customer segments. Merged and structured data to analyze customer behavior, sales trends, and menu performance. Identified that 40% of revenue came from combos, with an average 20% higher order value, enabling data-driven promotion strategies. Automated recurring data preparation workflows, reducing manual effort and ensuring consistency. Presented findings and actionable insights to stakeholders, supporting data-driven decision-making.",
-  },
-  {
-    title: "Banking Services Data Analysis & Classification",
-    timeframe: "3 months",
-    desc: "Analyzed over 600 raw Excel files containing banking transactions, loans, and deposits by cleaning, structuring, and categorizing data into service types. Conducted exploratory data analysis (EDA) to uncover patterns, anomalies, and key performance metrics. Built structured reports to highlight service performance trends and recommended improvements. Enhanced accuracy and efficiency of reporting by streamlining data handling processes.",
-  },
-  {
     title: "Cubicle: Workplace Efficiency System",
     timeframe: "3 months",
     desc: "Led the frontend development using ReactJS, building responsive and user-friendly interfaces. Collaborated closely with HR teams to design and implement performance evaluation dashboards that improved workplace transparency and efficiency. Streamlined workflows through intuitive UI components and contributed to strategic discussions on enhancing employee productivity.",
+  },
+  {
+    title: "Dr. Scheduler : Streamlining Healthcare Booking Process",
+    timeframe: "3 months",
+    desc: "Developed a healthcare booking system using HTML, CSS, JavaScript, and PHP to simplify appointment scheduling. Optimized the booking process for accuracy and efficiency, integrated scheduling tools to manage patient appointments, and enhanced communication workflows by confirming bookings and providing essential updates to patients.",
+  },
+  {
+    title: "Blog Application : Blogging Web Application",
+    timeframe: "3 months",
+    desc: "Built a full-stack blogging platform using ReactJS, Node.js, ExpressJS, MongoDB, and Firebase, with clean and responsive design. Implemented client-side routing with React Router to improve navigation, and used Redux for efficient state management to enhance performance and scalability. Ensured reliability by designing and executing unit tests, resulting in a robust and user-friendly application.",
   },
 ];
 

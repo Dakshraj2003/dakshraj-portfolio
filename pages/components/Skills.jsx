@@ -1,18 +1,20 @@
 import React from "react";
 
 const skills = [
-  "Python (Pandas, NumPy, Matplotlib, Seaborn)",
+  "Python (Pandas, NumPy)",
   "MySQL",
-  "Power BI",
-  "MS Excel (Advanced)",
-  "Data Modeling",
-  "EDA & Data Cleaning",
+  "Next JS",
+  "JavaScript",
+  "Agile Methodology",
   "SQL Query Optimization",
-  "Predictive Modeling",
   "React JS",
   "HTML",
   "CSS, Tailwind CSS",
   "Bootstrap",
+  "Redux/Toolkit",
+  "Axios",
+  "Restful API's",
+  "Redux",
 ];
 
 export default function Skills() {

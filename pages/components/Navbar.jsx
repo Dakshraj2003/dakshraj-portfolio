@@ -13,7 +13,7 @@ export default function Navbar() {
           <div>
             <div className="font-semibold text-white">Dakshraj Amnerkar</div>
             <div className="text-xs text-slate-400">
-              Data Analyst • React Developer
+               • React Developer
             </div>
           </div>
         </div>

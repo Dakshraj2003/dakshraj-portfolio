@@ -2,18 +2,6 @@ import React from "react";
 
 const experiences = [
   {
-    role: "Data Analyst Intern",
-    company: "Eliora Technologies Pvt Ltd., Nagpur",
-    date: "Feb 2025 - Jul 2025",
-    bullets: [
-      "Analyzed complex datasets to uncover business insights and support data-driven decision-making.",
-      "Developed predictive models to identify trends and improve operational efficiency.",
-      "Performed SQL queries and data joins across multiple sources for reporting and analysis.",
-      "Created interactive dashboards using Power BI.",
-      "Collaborated with cross-functional teams in Agile environment.",
-    ],
-  },
-  {
     role: "ReactJS Developer Intern",
     company: "I Loma Technology Services Pvt. Ltd., Nagpur",
     date: "Jan 2024 - Mar 2024",
@@ -23,6 +11,19 @@ const experiences = [
       "Implemented state management and reusable components to enhance scalability.",
       "Debugged and optimized code, improving application performance and reliability.",
       "Worked in an Agile environment, contributing to efficient teamwork and timely project delivery.",
+    ],
+  },
+  
+  {
+    role: "Frontend developer Intern",
+    company: " Ank Hub Technology Services Pvt. Ltd.",
+    date: "Feb 2022 - Apr 2022",
+    bullets: [
+      "Expertly integrated HTML, CSS, and JavaScript to develop responsive and robust websites.",
+      "Spearheaded brainstorming sessions, contributing innovative ideas for new website functionalities.",
+      "Architected and delivered high-quality websites, portals, and web applications for a diverse client base.",
+      "Collaborated with cross-functional teams to ensure seamless project execution and timely delivery.",
+      "Optimized website performance and improved user experience through efficient code practices.",
     ],
   },
 ];
